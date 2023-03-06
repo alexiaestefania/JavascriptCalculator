@@ -8,8 +8,8 @@ I used this [tutorial](https://www.section.io/engineering-education/building-a-c
 ## Operations
 
 The calculator supports `addition`, `multiplication`, `subtraction`, `division`. `Nth root` and `percentage`.
-You can also `clear the display` and `delete a number`.
-`Decimals` are supported. 
+You can also `clear the display` and `delete an entry`.
+`Decimals` are supported. `keyboard input` is supported.
 The display will automatically add `separators` for the thousands. The display will show an ellipsis when there is overflow.
 
 Future implementation: color theme picker, possibly limit the characters in the display in  JS instead of CSS overflow.
